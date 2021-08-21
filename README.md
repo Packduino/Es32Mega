@@ -1,4 +1,4 @@
-# Es32Mega
+# Esp32Mega
 Sistema de Automação de Médio Porte com 64 portas configuráveis como entrada ou saída.
 <br>
 Este projeto foi pensado para pessoas interessadas em montar sua própria automação residencial ou industrial, porém com pouca prática em confecção de placas.
@@ -16,6 +16,28 @@ O Sistema completo conta com uma placa principal (CPU), oito placas optoacoplado
  <br> - Fácil manutenção pois todas as conexões dos cabos utilizam conectores RJ45;
  <br> - Controladores (ESP32 e Arduino Mega Pro) conectados por encaixe na CPU;
  
-
-  <img src="https://github.com/Packduino/PD8ES/blob/master/PD8ESa.jpg" alt="PD8ES" width="600" height="600">
-<h2> Diferencial </h2>
+<h2> Placa finalizada </h2>
+  <img src="https://github.com/Packduino/Esp32Mega/blob/main/Sistema_ok.png" alt="Sistema Completo" width="600" height="600">
+<h2> Projeto dos PCBs </h2>
+<table border="1">
+    <tr>
+        <td>Placa</td>
+        <td>Projeto</td>
+        <td>PCB Pronto</td>
+    </tr>
+    <tr>
+        <td>CPU</td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_clean.png" alt="CPU 3D" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_clean.png" alt="CPU REAL" width="400" height="400"></td>
+    </tr>
+    <tr>
+        <td>Opto Acoplador</td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_OPTO_clean.png" alt="OPTO 3D" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_OPTO_foto.png" alt="OPTO REAL" width="400" height="400"></td>
+    </tr>
+    <tr>
+        <td>Conector Relé</td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_RELE_clean.png" alt="OPTO 3D" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_RELE_foto.png" alt="OPTO REAL" width="400" height="400"></td>
+    </tr>
+</table>
