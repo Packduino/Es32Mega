@@ -18,7 +18,7 @@ O Sistema completo conta com uma placa principal (CPU), oito placas optoacoplado
  
 <h2> Placa finalizada </h2>
   <img src="https://github.com/Packduino/Esp32Mega/blob/main/Sistema_ok.png" alt="Sistema Completo" width="600" height="600">
-<h2> Projeto dos PCBs </h2>
+<h2> Projetos dos PCBs </h2>
 <table border="1">
     <tr>
         <td>Placa</td>
