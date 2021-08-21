@@ -6,8 +6,8 @@ Este projeto foi pensado para pessoas interessadas em montar sua própria automa
 O Sistema completo conta com uma placa principal (CPU), oito placas optoacopladoras para proteção da CPU e placas para conexão com módulos de 8 relés.
   
 
- <br><h3> Principais características: </h3>
- <br> - 8 módulos com 8 portas configuráveis como entrada ou saída (multiplo de 8), ou seja, 64 portas disponíveis para automação;
+ <h3> Principais características: </h3>
+ - 8 módulos com 8 portas configuráveis como entrada ou saída (multiplo de 8), ou seja, 64 portas disponíveis para automação;
  <br> - Fácil programação via Arduino IDE (utiliza um ESP32 e aum Arduino Mega);
  <br> - Controle via WIFI ou Bluetooth (de acordo com a programação do usuário);
  <br> - Testado com MQTT e acesso via OpenHab e Homeassistant;
