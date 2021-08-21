@@ -28,7 +28,7 @@ O Sistema completo conta com uma placa principal (CPU), oito placas optoacoplado
     <tr>
         <td>CPU</td>
         <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_clean.png" alt="CPU 3D" width="400" height="400"></td>
-        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_clean.png" alt="CPU REAL" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_CPU_foto.png" alt="CPU REAL" width="400" height="400"></td>
     </tr>
     <tr>
         <td>Opto Acoplador</td>
@@ -38,6 +38,6 @@ O Sistema completo conta com uma placa principal (CPU), oito placas optoacoplado
     <tr>
         <td>Conector Relé</td>
         <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_RELE_clean.png" alt="OPTO 3D" width="400" height="400"></td>
-        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_RELE_foto.png" alt="OPTO REAL" width="400" height="400"></td>
+        <td><img src="https://github.com/Packduino/Esp32Mega/blob/main/Esp32Mega_RELE_FOTO.png" alt="OPTO REAL" width="400" height="400"></td>
     </tr>
 </table>
